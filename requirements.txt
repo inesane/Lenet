@@ -1,5 +1,4 @@
 matplotlib==3.3.2
-mnist==0.2.2
 numpy
 opencv_python==4.5.4.58
 python_mnist==0.7
