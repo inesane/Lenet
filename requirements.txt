@@ -1,4 +1,12 @@
-matplotlib==3.3.2
-numpy
-opencv_python==4.5.4.58
 python_mnist==0.7
+pandas
+opencv_python==4.5.4.58
+scipy==1.7.2
+tqdm==4.62.2
+matplotlib
+keras==2.7.0
+numpy
+main==0.1
+mnist==0.2.2
+Pillow==8.4.0
+scikit_learn==1.0.1
