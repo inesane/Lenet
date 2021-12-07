@@ -8,6 +8,7 @@
 - Open src/main.ipynb and run all cells
 
 ## Code Structure
-- './MNIST': Dataset files
-- './src': Code files  
-- 'requirements.txt': requirements
+- `./MNIST`: Dataset files
+- `./src`: Code files  
+- `requirements.txt`: Requirements
+- `./docs`: Previous documents
